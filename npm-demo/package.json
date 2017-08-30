@@ -1,0 +1,22 @@
+{
+  "name": "npm-demo",
+  "version": "1.0.0",
+  "description": "no",
+  "main": "index.js",
+  "scripts": {
+    "test": "de"
+  },
+  "repository": {
+    "type": "git",
+    "url": "dd"
+  },
+  "keywords": [
+    "123"
+  ],
+  "author": "11",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^1.12.4"
+  },
+  "devDependencies": {}
+}
