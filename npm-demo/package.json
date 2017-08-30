@@ -4,7 +4,8 @@
   "description": "no",
   "main": "index.js",
   "scripts": {
-    "test": "de"
+    "test": "de",
+    "hi":"npm -v && node -v && node test.js"
   },
   "repository": {
     "type": "git",
